@@ -1,0 +1,8 @@
+.vscode
+build
+tags
+.editorconfig
+.vs
+.vs/
+.*
+!/.gitignore
